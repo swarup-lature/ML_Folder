@@ -1,0 +1,36 @@
+ML INTRODUCTION
+------------------
+it is branch of AI that allow computers to learn from data or patterns and make different types of prediction
+
+ML means teaching to a computer using data so that it can predict pattern on new or unseen data
+
+AI -> ML ->DL
+
+we have three types of machine learning here
+1)Supervised ML
+- The data contains both input and known output
+- we have two subtypes of supervised ML
+-1)Regression = used for numerical data prediction
+-2)Classification = used for categorical prediction
+
+2)Unsupervised machine learning
+-The data has no target/output column
+-Different types of a algorithm which we can use here
+-1)K-means clustering
+-2)DBSCCAN
+-3)PCA
+
+3)Reinforcement ML
+The data is going to learn from action, reward or errors and penalties
+
+Steps Of ML
+1)Collection of data
+2)Feature(INPUT Variable/Column)
+3)Target(output variable which we have to predict)
+4)Training(Teaching the model Through data
+5)Testing(Testing the model on unseen data
+6)Prediction(models output for new data)
+7)Algorithm(Model Used to learn pattern)
+8)Accuracy(how many prediction are correct)
+9)overfitting(model memorize Training data too much)
+10)Underfitting(model fails to learn important pattern)
